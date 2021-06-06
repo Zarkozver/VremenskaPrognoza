@@ -1,0 +1,20 @@
+﻿body {
+    background-color: gray;
+}
+#link1{
+    position:absolute;
+    right:8%;
+    top: 6%;
+}
+#link2 {
+    position: absolute;
+    right: 12%;
+    top: 6%;
+}
+#prognoza{
+    position: absolute;
+    left: 30%;
+    top: 25%;
+    width: 750px;
+    height: 600px;
+}
